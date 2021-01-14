@@ -330,7 +330,7 @@
 		  <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.15-beta2</version>
+            <version>3.17</version>
         </dependency>
 		<!-- 健康监测   待定-->
 		<dependency>
